@@ -30,8 +30,8 @@ Follow these steps to get the Express Entry Draws Dashboard running on your loca
     If this is part of a Git repository, clone it:
 
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/ace97/Canada_PR_Draw
+    cd Canada_PR_Draw
     ```
 
     Otherwise, simply save the provided Python code (e.g., `express_entry_app.py`) to a folder on your computer.
