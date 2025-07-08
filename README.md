@@ -74,6 +74,8 @@ Follow these steps to get the Express Entry Draws Dashboard running on your loca
 
 ---
 
+## Link to Live app - https://canadaprdraw.streamlit.app/
+
 This project is a starting point for exploring Express Entry data. Feel free to fork the repository and enhance it!
 
 # The MIT License (MIT)
